@@ -1,0 +1,2 @@
+
+    pyautogui.press(letter)

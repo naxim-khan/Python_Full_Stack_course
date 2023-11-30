@@ -1,0 +1,26 @@
+The Final Project of day 32
+Email SMTP and the datetime module.
+
+basically we're going to learn that how to send email's using 
+python.
+and when we send the emial using day time module.
+
+Program Name: Automated Birthday Wisher.
+which wish birthday to your friend's automatically.
+Email SMTP is a a module. (which is built to send emial's using python.)
+
+
+Now here is the first thing come. The first thing is that we understand
+that how email acutally work.
+How Does Email Work?
+Eg: 
+Sender(angela@gmail.com)            recipent(timmy@yahoo.com)
+
+the first thing happend (Gmail server:==> Recieve your message.)
+2. (Yahoo Mail server : ==> Store Your message.until timmy turn on his computer. and network's or loging to gmail the
+yahoo server will send them the message.)
+Email SMTP (Simple Mail Transfer Protocol)
+
+Let's make the senario simplest. to understand,
+consider the Gmail and Yahoo server's are the post officies
+and SMTP is the Post who deliver the letter's and the recipent computer is the mail box.

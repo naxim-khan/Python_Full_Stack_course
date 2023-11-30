@@ -1,0 +1,5 @@
+working with CSV files and analysing Data with Pandas library
+CSV: A CSV is a comma-separated values file, which allows data to be saved in a tabular format.
+
+Final Project: A game which get's you to guess and learn 
+all of the states in the us . in this game you'll guess the names of the states in the us.

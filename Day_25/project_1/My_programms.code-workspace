@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "C:/Users/Nazeem Khan/Videos/Udemy/Java/My_Java_programs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": null,
+		"[python]": {
+			"editor.defaultFormatter": "ms-python.autopep8"
+		},
+		"python.formatting.provider": "none"
+	}
+}

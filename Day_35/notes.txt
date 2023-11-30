@@ -1,0 +1,3 @@
+API keys, Authentication, Environment variables and Sending SMS
+Project: Rain Alert ========> Application.
+using API's

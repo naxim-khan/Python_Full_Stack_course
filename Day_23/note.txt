@@ -1,0 +1,10 @@
+Capston project = Turtle Crossing Game
+In this game we have the whole bunch of cars passing the road
+and you have to move your turtle from the road one side to another 
+side without hit by a car
+
+____ TO DO LIST ____
+Move the turtle with keypress
+Detect when turtle reaches the other side
+Create and move the cars Detect collision with car
+Create a Scoreboard.
