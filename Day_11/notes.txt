@@ -1,0 +1,21 @@
+Day 11 Project BlackJack Capstone Project
+Requirement's:
+A game that's Played using cards , And the goal of the game
+is to add up your card to the largest number
+without going over 21 if the cards in your hand add up to more than 21
+then it's called a Bust and it's mean's that you lose immediately. and the cards from 2- 10 as count as their face value same like 6+9+10
+but the jack (j) and king (k) and (q) queen count as 10. and the other special card is the Ace (A) now the A card is count as either is 1 towards your total . or it can count as an 11. and it's depending on whether if you gone over 21 or whether you under 21 You can decide which value of A you want to count
+
+Lets say:
+the Dealer = got 10 to begin with
+and You = got a Q to begin (Q=10)
+in the 2nd round you don't know the dealer card that what's his card 
+value to count 
+and the with you is 3 which Q+3 is 13
+at this point you may ask the dealer for another card so now you have 3 cards 
+and it's adds upto 20 the third card you have is 7 but there is also a possibilty that you might have another card of 10 that you cross the 21 in third round and you may lose 
+
+if the dealer reveal his 2nd round and they have 20 and you have also 20 then it's consider a draw.
+if the dealer have the card of A and your total is 10 in this the dealer is win because you can count the A card value is 11.
+which increase the dealer score upto 21
+If the dealer score is less than you'rs then they must take another card 

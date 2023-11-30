@@ -1,0 +1,15 @@
+Code Blocks
+Function 
+While loops
+In python there are two types of function's
+i). Built-in Function
+ii). User define function --> def myFunction():
+___ HOW TO CREATEA A FCUNTION ____
+i. define a Function --> def myFunc():
+ii. Instruct it what it should do 
+    def myFunc():
+       a. Do this
+       b. Then Do this 
+       c. Finally do this
+       d. Exectue.
+

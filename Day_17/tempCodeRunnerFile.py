@@ -1,0 +1,1 @@
+print(f"You've completed the quiz\nYour final score was: {quiz.score}/{quiz.question_number}") 

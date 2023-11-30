@@ -1,0 +1,82 @@
+------------[ The python Dictionaries ]------------
+Dictionaries: 
+Dictionaries in python work similarly to Dictionarie in real life.
+E.g: 
+if you were to look up the word in Dictionary saying the word 'code'
+then you might find the definition and something like program instruction's e.tc.
+Dictionarie are very useful because they allow us to group together and
+tag related pieces of information 
+let's lookup to the Dictionarie in the form of a table.
+
+e.g: 
+._______________________________________________.
+|    Key  |              Value                  |            
+|---------:-------------------------------------|
+|         | An error in a program that          |
+| Bug     | Prevent the program from            |  
+|         | running as expected.                | 
+|---------:-------------------------------------|
+| Fuction | A piece of code that you can        |
+|         | easily call over and over again.    | 
+|---------:-------------------------------------|
+| Loop    | The action of doing something ove   |
+|         | and over again.                     |
+|_________:_____________________________________|
+
+Every Dictionary has two parts to it on the left hand side is the Key
+and that is the equivalent of the word in the dictionary.
+And also that's got an associated value on Right hand side. That would the
+equivalent of the actual definition of the word.
+_____________________________________
+Now let's say that we took that very simple table of definitions
+of programming related word's.
+And we go ahead and convert it into a dictonary
+How would we do that? 
+1. Let first drop the the below row's 
+._______________________________________________.
+|    Key  |              Value                  |            
+|---------:-------------------------------------|
+|         | An error in a program that          |
+| Bug     | Prevent the program from            |  
+|         | running as expected.                | 
+|_________:_____________________________________|
+
+i) The first thing we want to do is to create a dictionary.
+and to do that in python let's see the syntax in python what it's look like.
+{key: Value} (Note: Every thing inside in the curley braces is the content of our dictionary)
+
+{"Bug" : "An error in a program that 
+          Prevent the program from running
+          as expected." }
+
+Here "Bug" is the key and it's definition is the value.
+
+How to add Multiple Key's and values inside Dictionary in python.?
+._______________________________________________.
+|    Key  |              Value                  |            
+|---------:-------------------------------------|
+|         | An error in a program that          |
+| Bug     | Prevent the program from            |  
+|         | running as expected.                | 
+|---------:-------------------------------------|
+| Fuction | A piece of code that you can        |
+|         | easily call over and over again.    | 
+|---------:-------------------------------------|
+| Loop    | The action of doing something ove   |
+|         | and over again.                     |
+|_________:_____________________________________|
+
+To add Multiple keys and values inside dictionary in python is look like this
+
+dictionary={"Bug"     : "An erro in a program that prevent the program
+                        from running as expected.",
+            "Function": " A piece of Code that you can easily call over
+                          and over again",
+            "Loop"    : " The Action of doing something over and over 
+                           Again."}
+
+Note: Each key and it's value spereated from the 
+another key and it's value through a ',' comma inside 
+curel braces.
+
+Look the program named (Exercise_01.py)

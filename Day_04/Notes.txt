@@ -1,0 +1,18 @@
+Day 4
+Randomisation in Python.
+____________
+import random #random number module 
+random_int1=random.randint(1,10)
+random_int2=random.randint(1,10)
+head=random_int1
+tail=random_int2
+if head>tail:
+    print("Head")
+elif head<tail:
+    print("Tail")
+The above program create a random number from 0-1 if the number 
+is 1 then it should print (Head) other wise it's print (Tails)
+______________
+Lists
+fruits=[item1,item2] you store any type of data in list together 
+it can be strings. boolean. integers etc.

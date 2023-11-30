@@ -1,0 +1,12 @@
+ Nesting
+it's simply means putting one item inside another item
+
+E.g: dictionary= {key:Value} here is just simple dictionary with one key
+dictionary={key: value,
+            key2: value,} here we add another dictionary using ','
+similarly we can also assign a value of list to a key in dictionary like below
+and also assign another dictionary value to a key in other dictionary.
+
+dictionary={key: [List],
+            key2: {Dict},}
+

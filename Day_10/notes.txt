@@ -1,0 +1,11 @@
+Function with outputs
+Final Project Build a Calculator App.
+______________ Docstrings ______________
+How to create a documentation for function 
+eg: 
+def format_name(f_name,l_name):
+    """ Take a first and last name and format it
+    to return the title case version of the name. """
+    ^ The above is the documentation for the function.
+
+______________[Difference between return and print()]______________

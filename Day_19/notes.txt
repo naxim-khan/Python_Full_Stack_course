@@ -1,0 +1,14 @@
+Day 19 
+Leaning More about turtle graphics and Event Listeners,State, and Multiple Instances.
+
+In order create things like above we need to listen to Turtle. whch are called Turtle Event Listeners.
+
+Passing a function to another function.
+
+def calculator (n1,n2, func):
+    return func(n1,n1) 
+
+result=calculator(2,3, function_name)
+print(result)
+
+This fucntion is called Higher order function 

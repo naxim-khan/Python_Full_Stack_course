@@ -1,0 +1,23 @@
+Namespaces:
+Local vs. Global Scope
+
+Scope: What's is scope ?
+If you want to visualize this concept of scope . imagine You have
+a house with a fence sarrounded and you plant an apple tree inside Your garden
+think about who can access those apples the answer is simple just 
+you and your family have access to the apples.
+But what if instead if you have an apple tree  in your neighbour hood
+well  this is kind of free for all. Any body can go and access those apples. 
+this is the starting point for how to understand scope.
+
+______________________________________
+BLOCK SCOPE (Does python have Block Scope?)
+There is no such thing like Block scope in python.
+eg: 
+game_leve=3
+enemies=["Skeleton💀","Zombie 👻","Aliens 👽"]
+if game_level<5:
+    new_enemy=enemies[0]
+print(new_enemy)
+output : Skeleton💀
+It's that you create a variable inside a block of if else or while loop or for loop than that's not counting as creating a local scope. it's should consider Global in python.

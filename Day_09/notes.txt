@@ -1,0 +1,37 @@
+Dictionaries and Nesting
+Project:  Silent auction programm
+
+       _____________
+       \           /
+        )_________(
+        |'''''''''|_.-._,.-----------.,_.-._
+        |         | | |                 | | ``-.
+        |         |_| |_               _| |_..-`
+        |_________| '-' `'-----------'` '_'
+        )"""""""""(
+       /___________\
+     .---------------.
+    /_________________\
+
+    Silent Acution: Where every body bid silently and no one knows
+    the other person bid untill at the very end of the action where
+    the highest bid is revealed. 
+    'Thats what we gonna be building'.
+
+Out puts of the programm
+i. Welcome to the secret action program.
+ii. What is your name?: Angela
+iii. Waht's your bid?: $35
+Are there any other bidders? Type 'yes' or 'no'
+if you type yes then the screen clear and the program
+start from the begining and that would be the next person 
+the program will also note the next person record and it's bid
+amount if it's bid amount is higher than previous one
+the silent auction goes to the highest bid person.
+if they type no then out put will be (the winner is Jenny with a bid of $238)
+_________________________________________________
+In the lesson's of day 9 we are gonna be focusing mostly on the 
+Dictionaries but we also gonna look at Nesting in python let say 
+how we gonna nest list inside list and nest Dictionaries inside Dictionaries 
+and also mixing list and Dictionaries together. 
+

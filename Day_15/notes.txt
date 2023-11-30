@@ -1,0 +1,70 @@
+# Create the code for copy machine.
+3 hot flavors
+coins operated
+automatic cup dispenser
+counting cup selling
+1. Makes 3 hot flavors (Espresso, Latte, Cappuccino):
+Recipes: 
+i) Espresso: ( Price 1.50$ )
+50ml water.
+18g coffe
+
+ii) Latte: ( Price 2.50$ )
+200ml water.
+24g coffe
+150ml Milk 
+
+iii) Cappuccino: (Price 3.00$ )
+250 ml water
+24g coffe
+100 ml Milk
+
+The Storing capacity of a Machine( 300 ml water, 200 ml Milk, 100g coffe)
+
+2. Coin Operated
+American coins (Penny(1 cent 0.001$), Dime (10 cents 0.10 $), Nickel (5 cents 0.05$),Quarter (25 cents 0.25$)).
+
+Program Requirements
+1. Print report
+outputs: 
+What would like? (espresso/Latte/cappuccino): report
+Water: 300 ml
+Milk: 200 ml 
+Coffe: 100g
+Money: $0
+What would you like? (espresso/Latte/Cappuccino): 
+2. Check resources sufficient?: Latte
+Please insert coins.
+How many quarters? : 12
+How many dimes?    : 12
+How Many nickles?  : 12
+How many pennies?  : 12
+Here is $2.42 in change,
+Here is your latte ☕ Enjoy!
+What would you like? (espresso/Latte/Cappuccino): report
+Water: 100 ml
+Milk: 50ml 
+Coffe: 76g 
+Money: $2.5
+What would you like? (espresso/Latte/Cappuccino): cappuccino
+Sorry there is not enough water. 
+What would you like? (espresso/Latte/Cappuccino):
+
+3. Process coins.
+How many quarters? : 1
+How many dimes?    : 1
+How Many nickles?  : 1
+How many pennies?  : 1
+Sorry that's not enough money. Money refunded.
+What would you like? (espresso/Latte/Cappuccino): espresso
+How many quarters? : 12
+How many dimes?    : 4
+How Many nickles?  : 4
+How many pennies?  : 4
+Here is $2.14 in change.
+Here is your espresso ☕ Enjoy!
+What would you like? (espresso/Latte/Cappuccino):
+
+4. Check transaction successful?
+
+5. Make Coffe

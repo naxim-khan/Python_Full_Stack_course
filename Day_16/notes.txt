@@ -1,0 +1,53 @@
+What is OOPs (objected oriented programming.)
+1. What is Procedural Programming?
+Ans: They way of styling our code where we set a procedure or 
+functin's that do particular thing. And then one procedure lead
+to another procedure and all in all the computer is work from top
+to botton and then jumping out into a function is needed. 
+       Procedural Programming is one of the earliest paradiam of
+    programming . Like Programming in Fortran or cobol. these
+    languages rely of Procedural programming like we do in our
+    earliest projects. 
+
+So here comes question that how can we actually design our code
+which anyone can understand clearly  well this where the OOPs comes.
+OOPs: 
+     we can't manage a big projects with Procedural Programming way
+for that we need OOPs.
+    the simple Example of OOPs is let's imagine a restaurant 
+a restaurant is contain of Chef, Water, Cleaner, Manager.
+The Chef work is Cook Food. and the waiter work is to serve order's to the customer.
+and cleaner work is to clean. And the manager manage all these things
+in this case the manager don't need to tell the chef how to cook.
+and also they don't need to tell the waiter how to serve order same rule is for the cleaner
+because they all know their work. What to do and what not.
+here we can use the same concept of the relationship of our code and make it scalable 
+for larger and more complex project.
+
+How to use OOPs:
+                In the OOps we are trying to build a real world model. so let's say that we are 
+are creating a virtual restaurant . In this case we have to made a 
+virtual chef, waiter cleaner  and manager. Now we are going to model 
+a waiter, To model a waiter there is probably three things we need to think about. 
+i. What it has: interm of what it has You might have variables Like:
+is_holding_plate=True
+tables_resposible=[4,5,6]
+ii. And What it does: 
+def take_order(table, order): 
+# takes order to Chef
+
+def take_payment(amount):
+# add mone to restaurant.
+The above two things are the most important things to make up an object.
+or you can call attributes and methods.
+and the waiter here is object.
+In OOps we are trying to model real life objects. and those objects has things and also
+can do things. the things they have or attributes and the things they can do or the methods.
+so here we can also generates multiple model of the same object. so we could have Henry whos a waiter and we can also have Betty
+and she's also a waiter.  and we can generate as many as we want from the same blueprint waiter.
+in OOPs we call this blueprint a Class and these two things which we generate from a blue print are objets.
+
+Constructing Objects: 
+E.g: Class= Car  --> Generate many car's which are objects.
+naming convention of a Class is in Pascal Case(CarBluePrint)
+e.g: car=CarBluePrint() car (object) (CarBluePrint) Class.

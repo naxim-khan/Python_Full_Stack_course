@@ -1,0 +1,5 @@
+    t1.color("blue")
+    t2.color("green")
+    t3.color("yellow")
+    t4.color("orange")
+    t5.color(user_bet)

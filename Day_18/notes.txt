@@ -1,0 +1,4 @@
+Turtle Graphics, tuples and importing moduels. 
+The end project of day 18 is
+to use graphic Turtle that create dot painting.
+
